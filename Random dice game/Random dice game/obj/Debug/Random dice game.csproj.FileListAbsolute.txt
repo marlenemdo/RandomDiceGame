@@ -1,0 +1,8 @@
+C:\Users\mamon\source\repos\Random dice game\Random dice game\bin\Debug\Random dice game.exe.config
+C:\Users\mamon\source\repos\Random dice game\Random dice game\bin\Debug\Random dice game.exe
+C:\Users\mamon\source\repos\Random dice game\Random dice game\bin\Debug\Random dice game.pdb
+C:\Users\mamon\source\repos\Random dice game\Random dice game\obj\Debug\Random dice game.csproj.AssemblyReference.cache
+C:\Users\mamon\source\repos\Random dice game\Random dice game\obj\Debug\Random dice game.csproj.SuggestedBindingRedirects.cache
+C:\Users\mamon\source\repos\Random dice game\Random dice game\obj\Debug\Random dice game.csproj.CoreCompileInputs.cache
+C:\Users\mamon\source\repos\Random dice game\Random dice game\obj\Debug\Random dice game.exe
+C:\Users\mamon\source\repos\Random dice game\Random dice game\obj\Debug\Random dice game.pdb
